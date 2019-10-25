@@ -23,7 +23,7 @@ b4.clear()  # очистить множество
 print("clear b4: ", b4)
 print("\n ")
 
-''' 9 Задание '''
+# 9 point
 set1 = set("qetuwrt")
 set2 = set("asfrewgq")
 print(set1 - set2)
@@ -38,6 +38,6 @@ print(set1 | set2)
 print(set1 & set2)
 print(set1 ^ set2)
 
-''' 10 Задание '''
+# 10 point
 set3 = frozenset(set1)
-set3.remove(q)
+set3.remove("q") # frozenset - неизменняемое множество

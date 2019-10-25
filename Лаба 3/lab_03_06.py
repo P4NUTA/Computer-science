@@ -38,5 +38,6 @@ def returnMod(a):
     c = a % 15
     print(c)
     return c
-mod15 = returnMod(20)
 
+
+mod15 = returnMod(20)

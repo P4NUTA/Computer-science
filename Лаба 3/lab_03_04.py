@@ -13,7 +13,7 @@ print("Dict d3 by dict([])= ", d3)
 print("Dict d4 by fromkeys = ", d4)
 print("\n")
 
-''' 12 Задание '''
+# 12 point
 startDict = {
     "ready": 3,
     "set": 2,
@@ -21,6 +21,6 @@ startDict = {
 }
 print(startDict)
 
-''' 13 Задание '''
+# 13 point
 dict1 = dict.fromkeys(["key1", "key2"], input())
 print(dict1)
