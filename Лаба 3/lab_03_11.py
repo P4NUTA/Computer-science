@@ -1,4 +1,4 @@
-from huffman import HuffmanCoding
+from huffman import Leaf
 def encodeHuffman(fileIn, fileOut):
     simbols = []
     simbols_ind = []
@@ -18,7 +18,6 @@ def encodeHuffman(fileIn, fileOut):
             simbols_s.append(s)
     array.append(simbols)
     array.append(simbols_ind)
-    print(array) #двумерный массив буква - повторение
     for s in simbols_s:
         file2.write(str(simbols_ind[i]))
         file2.write(" - ")
@@ -33,8 +32,11 @@ def decodeHuffman(fileIn, fileOut):
 
 
 if __name__ == "__main__":
-    encodeHuffman("text1.txt", "24point.txt")
+    encodeHuffman("text1.txt", "25point.txt")
     file1 = open("text1.txt", "r")
-    temp = file1.read().lower()
-    p = HuffmanCoding("text1.txt")
-    f1 = p.compress()
+    file2 = open("25point.txt","w")
+    s = file1.read()
+    code = Leaf.huffman_encode(s)
+    encoded = "".join(code[ch] for ch in s)
+    file2.write(encoded)
+    print(len(code), len(encoded))
