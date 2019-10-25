@@ -9,12 +9,12 @@ print("Get dict keys d5.keys(): ", d5.keys())  # список ключей
 print("Get dict values d5.values(): ", d5.values())  # список значений
 print("\n")
 
-''' 15 Задание '''
+# 15 point
 myinfo = {
-    "Surname": "Malyshev",
-    "name": "Aleksey",
-    "Middlename": "Andreevich",
-    "day": 26,
+    "Surname": "Ефимов",
+    "name": "Павел",
+    "Middlename": "Леонидович",
+    "day": 4,
     "month": 10,
     "year": 2001,
     "university": "ITMO"
