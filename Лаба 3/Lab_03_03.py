@@ -40,4 +40,4 @@ print(set1 ^ set2)
 
 # 10 point
 set3 = frozenset(set1)
-set3.remove("q") # frozenset - неизменняемое множество
+set3.remove("q")  # frozenset - неизменняемое множество

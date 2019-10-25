@@ -39,4 +39,5 @@ def checkArgs(*nums, **kwarg):
         print("Предупреждение")
     return
 
+
 checkArgs(12, 33, "123", "456")

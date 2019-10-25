@@ -1,4 +1,6 @@
 from huffman import Leaf
+
+
 def encodeHuffman(fileIn, fileOut):
     simbols = []
     simbols_ind = []
@@ -34,7 +36,7 @@ def decodeHuffman(fileIn, fileOut):
 if __name__ == "__main__":
     encodeHuffman("text1.txt", "25point.txt")
     file1 = open("text1.txt", "r")
-    file2 = open("25point.txt","w")
+    file2 = open("25point.txt", "w")
     s = file1.read()
     code = Leaf.huffman_encode(s)
     encoded = "".join(code[ch] for ch in s)
