@@ -43,4 +43,4 @@ def checkArgs(*nums, **kwarg):
     return
 
 
-checkArgs(12, 33, "Suka", "Pisda")
+checkArgs(12, 33, "123", "456")
