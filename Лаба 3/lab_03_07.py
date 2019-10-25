@@ -1,6 +1,7 @@
 '''
  Аргументы функции
 '''
+from builtins import print
 
 
 def sum(x, y, z=1):
@@ -32,15 +33,10 @@ print("\n")
 
 
 def checkArgs(*nums, **kwarg):
-    sum = 0
-    sum1 = 0
-    for n in nums:
-        sum += 1
-    for a in kwarg:
-        sum1 += 1
-    if (sum <= 3) and (sum1 < 3):
+    if (len(nums) <= 3) and (len(kwarg) < 3):
         print(*nums, **kwarg)
+    else:
+        print("Предупреждение")
     return
-
 
 checkArgs(12, 33, "123", "456")

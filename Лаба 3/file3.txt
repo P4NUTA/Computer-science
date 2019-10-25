@@ -1,0 +1,7 @@
+Strings 
+can 
+be 
+easily 
+written 
+to 
+file
