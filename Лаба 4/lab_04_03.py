@@ -27,3 +27,5 @@ print("Check instance sq->dict: ", isinstance(sq, dict))
 
 print("Geometric.__bases__: ", Geometric.__bases__)
 print("Square.__bases__: ", Square.__bases__)
+
+print("hello")
