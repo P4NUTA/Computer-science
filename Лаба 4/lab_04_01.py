@@ -42,7 +42,7 @@ del ticket1  # удаление объекта
 
 # 4 point
 print("___4 point___")
-print(time.asctime(time.localtime()))
+print (time.strftime("%d %b %Y %H:%M:%S", time.localtime()))
 
 # 5 point
 print("___5 point___")
