@@ -1,6 +1,18 @@
+import math
+
+
 class Geometric:
     def calculateArea(self):
         print("Calculating area")
+
+
+class Circle(Geometric):
+    def __init__(self, a):
+        self.side = a
+
+    def _radius(self):
+        b = pow(self.side,2) * math.pi
+        print("Area of Circle {}: {}".format(self.side, b))
 
 
 class Square(Geometric):
@@ -27,5 +39,6 @@ print("Check instance sq->dict: ", isinstance(sq, dict))
 
 print("Geometric.__bases__: ", Geometric.__bases__)
 print("Square.__bases__: ", Square.__bases__)
-
-print("hello")
+print("")
+cir = Circle(4)
+cir._radius()
