@@ -50,7 +50,7 @@ class Professor(Person):
 
 s1 = Student("Pavel", "Efimov", 18, [5, 2, 3, 4, 5])
 s1.display()
-s2 = Student("Aleksei", "Malyshev", 18, [5, 4, 5, 3, 4])
+s2 = Student("Aleksei", "Malyshev", 18, [2, 4, 5, 2, 4])
 s2.display()
 s3 = Student("Ksenia", "Anisimova", 18, [5, 5, 5, 4, 5])
 s3.display()
