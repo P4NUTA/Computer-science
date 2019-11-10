@@ -31,17 +31,18 @@ class Table:
         for i in range(0, self.rowsNum * 4, 4):
             print("\t{} \t{} \t{} |\t{}".format(self.rows[i], self.rows[i + 1], self.rows[i + 2], self.rows[i + 3]))
 
-            # class LogicFunction:
-            #     variablesNum
-            #     table = Table
-            #
-            #     def __init__(variablesNum, table):
-            #
-            #     def getExpression():
-            #
-            #     def getTable():
-            #
-            #     def printTable():
+
+# class LogicFunction:
+#     variablesNum
+#     table = Table
+#
+#     def __init__(variablesNum, table):
+#
+#     def getExpression():
+#
+#     def getTable():
+#
+#     def printTable():
 
 
 '''
