@@ -1,5 +1,3 @@
-package com.company;
-
 public class FirstClass {
     public static void main(String[] args) {
         int i = 5;
