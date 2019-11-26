@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98fd5618-2d20-46e3-9af0-d9ecdd22d52c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Computer-science.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/.idea/dictionaries/Pavel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/.idea/test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Лаба 1/lab_01_01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Лаба 1/lab_01_02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Лаба 1/lab_01_03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Лаба 2/lab_02.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Лаба 2/lab_02_01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Лаба 2/lab_02_02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Лаба 2/lab_02_03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Лаба 2/lab_02_04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Лаба 2/lab_02_05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Лаба 2/lab_02_06.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Лаба 2/lab_02_07.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Лаба 3/25point.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Лаба 3/Lab_03_03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Лаба 3/file1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Лаба 3/file2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Лаба 3/file3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Лаба 3/huffman.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Лаба 3/lab_03.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Лаба 3/lab_03_01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Лаба 3/lab_03_02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Лаба 3/lab_03_04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Лаба 3/lab_03_05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Лаба 3/lab_03_06.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Лаба 3/lab_03_07.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Лаба 3/lab_03_08.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Лаба 3/lab_03_09.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Лаба 3/lab_03_10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Лаба 3/lab_03_11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Лаба 3/text1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Лаба 3/textDict.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Лаба 4/lab_04.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Лаба 4/lab_04_01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Лаба 4/lab_04_02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Лаба 4/lab_04_03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Лаба 4/lab_04_04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Лаба 4/lab_04_05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Лаба 4/lab_04_06.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Лаба 4/lab_04_07.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Лаба 5/lab_05.pdf" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1U9cAGG8Q0IMCozvcT7lThCJVt1" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98fd5618-2d20-46e3-9af0-d9ecdd22d52c" name="Default Changelist" comment="" />
+      <created>1574772107223</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574772107223</updated>
+      <workItem from="1574772109642" duration="38000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
