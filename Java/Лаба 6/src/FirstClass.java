@@ -1,5 +1,6 @@
 public class FirstClass {
     public static void main(String[] args) {
+        // 2 point
         int i = 5;
         i += 7;
         System.out.println("i = " + i);
@@ -13,5 +14,15 @@ public class FirstClass {
         boolean b2 = (c1 == c3);
         System.out.println(b1);
         System.out.println(b2);
+        // 3 point
+        int year = 2001;
+        double div = year / 5;
+        System.out.println(div);
+        // 4 point
+        boolean l1 = true, l2 = false;
+        System.out.println(l1 && l2);
+        System.out.println(l1 || l2);
+        System.out.println(!l1);
+        System.out.println(!l2);
     }
 }
