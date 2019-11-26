@@ -15,11 +15,13 @@ public class FirstClass {
         System.out.println(b1);
         System.out.println(b2);
         // 3 point
+        // год рождения поделено на 5
         int year = 2001;
         double div = year / 5;
         System.out.println(div);
         // 4 point
         boolean l1 = true, l2 = false;
+        // Логич. операции
         System.out.println(l1 && l2);
         System.out.println(l1 || l2);
         System.out.println(!l1);
