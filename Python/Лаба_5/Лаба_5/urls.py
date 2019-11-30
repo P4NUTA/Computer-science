@@ -20,4 +20,5 @@ from Лаба_5 import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     re_path(r'^$', views.index, name='index'),
+    re_path(r'^hello', views.indexRender, name='indexRender'),
 ]
