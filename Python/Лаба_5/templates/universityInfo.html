@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>
+        {% block title %}
+        ITMO
+        {% endblock %}
+    </title>
+</head>
+<body>
+    <section>
+    <ul>
+        <li><b>Университет: </b>{{Name}}</li>
+        <li><b>Ректор: </b> {{Rector.0}} {{Rector.1}}</li>
+        <li><b>Местоположение: </b>{{Location.index}}, {{Location.city}}, {{Location.address}}</li>
+        <li><b>Количество административных подразделений: </b>{{num_administrative}}</li>
+        <li><b>Количество научно-образовательных подразделений: </b>{{num_educational}}</li>
+        <li><b>Количество мегафакультетов: </b>{{num_educational}}</li>
+        <li><b>Количество факультетов: </b>{{num_faculty}}</li>
+
+    </ul>
+</section>
+</body>
+</html>

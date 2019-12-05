@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Groups</title>
+</head>
+<body>
+<section>
+    <table>
+        <tbody>
+        <tr>
+            <th>Группа</th>
+            <th>Табельный номер</th>
+            <th>Студент</th>
+            <th>Стипендия</th>
+        </tr>
+        <tr>
+            <td>{{group.Name}}</td>
+            <td>{{ group.Students.0.employee_ID}}</td>
+            <td>{{ group.Students.0.Firstname }} {{ group.Students.0.Lastname }} {{ group.Students.0.Middlename }}</td>
+            <td>{{ group.Students.0.bursary }}</td>
+        </tr>
+                <tr>
+            <td>{{group.Name}}</td>
+            <td>{{ group.Students.1.employee_ID}}</td>
+            <td>{{ group.Students.1.Firstname }} {{ group.Students.1.Lastname }} {{ group.Students.1.Middlename }}</td>
+            <td>{{ group.Students.1.bursary }}</td>
+        </tr>
+        </tbody>
+    </table>
+</section>
+</body>
+</html>

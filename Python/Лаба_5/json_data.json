@@ -7,10 +7,10 @@
   },
   "Rector": {
     "Firstname": "Владимир",
-    "Surname": "Васильев",
+    "Lastname": "Васильев",
     "Middlename": "Николаевич",
     "Occupation": "Ректор",
-    "Personal Number": 144
+    "employee_ID": 1
   },
   "Subdivision": {
     "Administrative": [
@@ -18,47 +18,47 @@
         "ID": "102408",
         "Name": "Ректорат",
         "Supervisor": {
-          "Firstname": "Галина",
-          "Lastname": "Марковна",
+          "Firstname": "Лазарь",
+          "Lastname": "Прохоров",
           "Occupation": "Руководитель",
-          "Personal Number": 100
+          "employee_ID": 645
         },
         "Staff": [
           {
-            "Firstname": "Татьяна",
-            "Lastname": "Васильеваa",
+            "Firstname": "Ефим",
+            "Lastname": "Лукин",
             "Occupation": "Работник",
-            "Personal Number": 708
+            "employee_ID": 398
           },
           {
-            "Firstname": "Анастасия",
-            "Lastname": "Романова",
+            "Firstname": "Ралина",
+            "Lastname": "Кулакова",
             "Occupation": "Работник",
-            "Personal Number": 809
+            "employee_ID": 463
           }
         ]
       },
       {
         "ID": "938312",
-        "Name": "Бугалтерия",
+        "Name": "Бухгалтерия",
         "Supervisor": {
-          "Firstname": "Ирина",
-          "Lastname": "Михайловна",
+          "Firstname": "Элла",
+          "Lastname": "Копылова",
           "Occupation": "Руководитель",
-          "Personal Number": 202
+          "employee_ID": 464
         },
         "Staff": [
           {
-            "Firstname": "Иван",
-            "Lastname": "Корннилов",
+            "Firstname": "Ольга",
+            "Lastname": "Фомичёва",
             "Occupation": "Работник",
-            "Personal Number": 265
+            "employee_ID": 631
           },
           {
-            "Firstname": "Алеся",
-            "Lastname": "Васильева",
+            "Firstname": "Олеся",
+            "Lastname": "Фокина",
             "Occupation": "Работник",
-            "Personal Number": 906
+            "employee_ID": 752
           }
         ]
       }
@@ -68,18 +68,18 @@
         "ID": "765432",
         "Name": "МФ ТИнТ",
         "Supervisor": {
-          "Firstname": "Александр",
-          "Lastname": "Бухановский",
-          "Middlename": "Николаевич",
+          "Firstname": "Вадим",
+          "Lastname": "Мишин",
+          "Middlename": "Мартынович",
           "Occupation": "Руководитель",
-          "Personal Number": 865
+          "employee_ID": 8771
         },
         "Staff": [
           {
-            "Firstname": "Анна",
+            "Firstname": "Ольга",
             "Lastname": "Виноградова",
             "Occupation": "Работник",
-            "Personal Number": 435
+            "employee_ID": 751
           }
         ],
         "Faculty": [
@@ -87,18 +87,18 @@
             "ID": 120321,
             "Name": "ИКС",
             "Supervisor": {
-              "Firstname": "Сергей",
-              "Lastname": "Хоружников",
-              "Middlename": "Эдуардович",
+              "Firstname": "Игорь",
+              "Lastname": "Сорокин",
+              "Middlename": "Дамирович",
               "Occupation": "Руководитель",
-              "Personal Number": 143
+              "employee_ID": 6311
             },
             "Staff": [
               {
                 "Firstname": "Олеся",
-                "Lastname": "Горохова",
+                "Lastname": "Полякова",
                 "Occupation": "Работник",
-                "Personal Number": 222
+                "employee_ID": 2684
               }
             ],
             "Programs": [
@@ -113,11 +113,18 @@
                       "Name": "K3120",
                       "Students": [
                         {
-                          "Firstname": "Анна",
-                          "Lastname": "Лаврина",
-                          "Middlename": "Николаевна",
-                          "bursary": 7000,
-                          "Personal Number": 285323
+                          "Firstname": "Любовь",
+                          "Lastname": "Лескова",
+                          "Middlename": "Онисимовна",
+                          "bursary": 0,
+                          "employee_ID": 746122
+                        },
+                        {
+                          "Firstname": "Юрий",
+                          "Lastname": "Топорков",
+                          "Middlename": "Изяславович",
+                          "bursary": 1600,
+                          "employee_ID": 46845
                         }
                       ]
                     }

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>
+        {% block title %}
+            Departments
+        {% endblock %}
+    </title>
+</head>
+<body>
+<section>
+    <ul>
+        <li><b>ID: </b>{{ department.ID }}</li>
+        <li><b>Мегафакультет: </b> {{ department.Name }}</li>
+        <li><b>Зав. факультета: </b>  {{ department.Supervisor.Firstname}} {{ department.Supervisor.Lastname}} {{ department.Supervisor.Middlename}} {{ department.Supervisor.employee_ID}}</li>
+        <li><b>Преподаватели: </b></li>
+        <li>1. {{ department_workers.Firstname }} {{ department_workers.Lastname }} {{ department_workers.employee_ID }}</li>
+        <li><b>Образовательные программы: </b></li>
+        <li>1. {{department_faculty.Num}} {{department_faculty.Name}} {{department_faculty.discipline}}</li>
+    </ul>
+</section>
+</body>
+</html>
