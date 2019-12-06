@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Структура</title>
+</head>
+<body>
+<section>
+    <ul>
+        <li><b>Университет: </b>{{ Name }}</li>
+
+        <li><b>Административные подразделения: </b></li>
+        <li><b>Ректорат: </b>{{ administrative.0.ID }}</li>
+        <li><b>Бухгалтерия: </b>{{ administrative.1.ID }}</li>
+
+        <li><b>Научно-образовательные подразделения: </b></li>
+        <li><b>Мегафакультет: </b>{{ educational.0.ID }}</li>
+        <li><b>Факультет: </b>{{ educational.0.Faculty.0.ID }}</li>
+
+</section>
+</body>
+</html>
