@@ -1,7 +1,40 @@
 {
-  "name": "Dock_course",
-  "version": "1.0.0",
-  "dependencies": {
-    
-  }
+  "Port": [
+    {
+      "ID": 0,
+      "Name": "Порт",
+      "Address": "Кронверский пр. 49",
+      "Work": true,
+      "Time": "пн-сб 8-21",
+      "Docks": [
+        {
+          "Name": "Причал",
+          "ID": 0,
+          "WorkNorm": 45.3,
+          "WorkTime": "пн-пт 10-20",
+          "Type": "Cargo",
+          "Ships": [
+            {
+              "ID": 0,
+              "Name": "Корабль",
+              "Type": "Cargo",
+              "Characteristic": "Science",
+              "Time": "четверг 13:00"
+            }
+          ]
+        }
+      ],
+      "Workers": [
+        {
+          "FIO": "Малышев А.А.",
+          "Role": "Главный",
+          "ID": 0,
+          "Salary": 10000000
+        }
+      ]
+    }
+  ]
 }
+
+
+
