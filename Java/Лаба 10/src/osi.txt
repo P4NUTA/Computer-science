@@ -1,0 +1,7 @@
+Level 7; application; example: HTTP
+Level 6; presentation; example: JPEG
+Level 5; session; example: RPC
+Level 4; transport; example: TCP
+Level 3; network; example: IPv6
+Level 2; data link; example: IEEE 802.2
+Level 1; physical; example: USB
